@@ -1,0 +1,16 @@
+[project]
+name = "ComfyUI-SteadyDancer"
+description = "Custom nodes that wrap SteadyDancer I2V generation for ComfyUI.
+version = "0.0.1"
+license = {file = "LICENSE"}
+
+dependencies = [""]
+    
+[project.urls]
+Repository = "https://github.com/1038lab/ComfyUI-SteadyDancer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "ComfyUI-SteadyDancer"
+Icon = ""

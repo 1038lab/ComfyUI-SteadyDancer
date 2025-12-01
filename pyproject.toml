@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI-SteadyDancer"
-description = "Custom nodes that wrap SteadyDancer I2V generation for ComfyUI.
+description = "Custom nodes that wrap SteadyDancer I2V generation for ComfyUI."
 version = "0.0.1"
 license = {file = "LICENSE"}
 
